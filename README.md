@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version 2.5
+* Ruby version
 
 * System dependencies
 
@@ -13,7 +13,7 @@ Things you may want to cover:
 
 * Database creation
 
-* Database initialization - Postgres
+* Database initialization
 
 * How to run the test suite
 
