@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Full url:</strong>
+  <%= @url_list.full_url %>
+</p>
+
+<p>
+  <strong>Short url:</strong>
+  <%= @url_list.short_url %>
+</p>
+
+<%= link_to 'Edit', edit_url_list_path(@url_list) %> |
+<%= link_to 'Back', url_lists_path %>
